@@ -2,7 +2,7 @@
   "name": "to-do",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ollivdh.github.io/React-Ecom-store",
+  "homepage": "https://Oliviervdh.github.io/React-Ecom-store",
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
