@@ -2,26 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb0c894d-e501-464e-bee7-552d632ca655" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/React.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/user/user.reduces.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../contact/src/components/contacts/AddContact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../contact/src/components/contacts/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../contact/src/components/contacts/Contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../contact/src/components/layout/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../contact/src/components/layout/TextInputGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../contact/src/context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../to-do/src/components/AddTodo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../to-do/src/components/TodoItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../to-do/src/components/layout/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../to-do/src/components/pages/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../rest-api/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../rest-api/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../rest-api/routes/posts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../404-Page" beforeDir="false" afterPath="$PROJECT_DIR$/../../404-Page" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Becode_projects/Cadavre-exquis-Olivier" beforeDir="false" afterPath="$PROJECT_DIR$/../../Becode_projects/Cadavre-exquis-Olivier" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Becode_projects/This-is-how-we-git-" beforeDir="false" afterPath="$PROJECT_DIR$/../../Becode_projects/This-is-how-we-git-" afterDir="false" />
@@ -38,11 +18,21 @@
       <change beforePath="$PROJECT_DIR$/../../Peer-p/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Peer-p/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Peer-p/Peer-p.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Peer-p/Peer-p.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Peer-p/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Peer-p/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/React.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/React.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firebase/firebase.utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/src/components/contacts/AddContact.js" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/src/components/contacts/AddContact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/src/components/contacts/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/src/components/contacts/Contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/src/components/contacts/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/src/components/contacts/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/src/components/layout/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/src/components/layout/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/src/components/layout/TextInputGroup.js" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/src/components/layout/TextInputGroup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/src/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/src/context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e-commerce/src/homepage.component.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../to-do/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../to-do/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do/src/components/AddTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../to-do/src/components/AddTodo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Responsive-Web-Design" beforeDir="false" afterPath="$PROJECT_DIR$/../../Responsive-Web-Design" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Skills/Successful.md" beforeDir="false" />
@@ -68,6 +58,9 @@
       <change beforePath="$PROJECT_DIR$/../../php/src/PHP-Intro" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/src/PHP-Intro" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../php/src/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../php/src/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../progressive-enhancement" beforeDir="false" afterPath="$PROJECT_DIR$/../../progressive-enhancement" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rest-api/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../../rest-api/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rest-api/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../rest-api/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rest-api/routes/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../rest-api/routes/posts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../serious-business" beforeDir="false" afterPath="$PROJECT_DIR$/../../serious-business" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -84,62 +77,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/firebase/firebase.utils.js">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-252">
-              <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="168">
+              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -197,13 +139,13 @@
         <option value="$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx" />
         <option value="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/package-lock.json" />
         <option value="$PROJECT_DIR$/src/redux/user/user.reduces.jsx" />
         <option value="$PROJECT_DIR$/src/redux/root-reducer.js" />
         <option value="$PROJECT_DIR$/src/redux/store.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/firebase/firebase.utils.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -341,15 +283,15 @@
       <workItem from="1564470621644" duration="19610000" />
       <workItem from="1565100281449" duration="51000" />
       <workItem from="1565161846614" duration="3081000" />
+      <workItem from="1565186563707" duration="281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80391000" />
+    <option name="totallyTimeSpent" value="80672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19453552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -366,7 +308,7 @@
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Favorites" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.032894738" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.44627193" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -616,27 +558,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/redux/user/user.reduces.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -660,16 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-347">
@@ -680,10 +595,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="189">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -692,8 +617,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        <state relative-caret-position="189">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -702,11 +627,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/firebase/firebase.utils.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        <state relative-caret-position="-296">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
         </state>
       </provider>
     </entry>
