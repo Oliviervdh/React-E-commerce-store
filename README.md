@@ -2,6 +2,8 @@
 
 The project is a still ongoing process, this is what it looks like so far: https://oliviervdh.github.io/React-E-commerce-store/
 
+This project was made following a Udemy Course. 
+
 
 # Description
 
@@ -12,5 +14,6 @@ I created this project to practice develop and improve my skills with React and 
 # Technologies
 
 The technologies used for this project are HTML, SASS,  React, Firebase, Redux, Stripe and GraphQL
+
 
 Thanks for reading.
