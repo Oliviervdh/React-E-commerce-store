@@ -16,4 +16,4 @@ I created this project to practice develop and improve my skills with React and 
 The technologies used for this project are HTML, SASS,  React, Firebase, Redux, Stripe and GraphQL
 
 
-Thanks for reading.
+Thanks for reading, Olivier.
