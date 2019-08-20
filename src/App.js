@@ -1,6 +1,5 @@
 import React from 'react';
-import { Switch, Route} from 'react-router-dom';
-
+import {HashRouter as Router, Route, Switch} from 'react-router-dom';
 import './App.css';
 
 import HomePage from './pages/homepage/homepage.component';
@@ -53,15 +52,16 @@ class App extends React.Component{
 
     render() {
         return (
+        <Router>
             <div>
                 <Header currentUser={this.state.currentUser} />
                 <Switch>
                     <Route exact path='/' component={HomePage}/>
-                    <Route exact path='/React-E-commerce-store' component={HomePage}/>
                     <Route  exact path='/shop' component={ShopPage}/>
                     <Route  exact path='/signin' component={SingInAndSignUpPage}/>
                 </Switch>
             </div>
+        </Router>
         );
     }
 }
