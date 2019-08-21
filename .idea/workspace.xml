@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb0c894d-e501-464e-bee7-552d632ca655" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.styles.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-firebase-authentication/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-firebase-authentication/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-firebase-authentication/.idea/modules.xml" afterDir="false" />
@@ -31,23 +29,6 @@
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.b767e823d7e28dc870c8abaecf2d3618.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/precache-manifest.b767e823d7e28dc870c8abaecf2d3618.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.067c4884.chunk.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/css/main.067c4884.chunk.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.067c4884.chunk.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/css/main.067c4884.chunk.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.7401c511.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/2.7401c511.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.7401c511.chunk.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/2.7401c511.chunk.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.a2ce1ce3.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/main.a2ce1ce3.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.a2ce1ce3.chunk.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/main.a2ce1ce3.chunk.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime~main.e5fb13f3.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/runtime~main.e5fb13f3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime~main.e5fb13f3.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/runtime~main.e5fb13f3.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/4.4 crown.svg.ed28accb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/4.4 crown.svg.ed28accb.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/user/user.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user.actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/user/user.types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/user/user.types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../contact/src/components/contacts/AddContact.js" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/src/components/contacts/AddContact.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../contact/src/components/contacts/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/src/components/contacts/Contact.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../contact/src/components/contacts/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/src/components/contacts/Contacts.js" afterDir="false" />
@@ -115,8 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/header/header.component.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+            <state relative-caret-position="359">
+              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -333,18 +314,18 @@
       <workItem from="1565266315543" duration="4273000" />
       <workItem from="1565790039705" duration="273000" />
       <workItem from="1566302347520" duration="8350000" />
-      <workItem from="1566374413480" duration="5542000" />
+      <workItem from="1566374413480" duration="6236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102631000" />
+    <option name="totallyTimeSpent" value="103325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1002" height="1051" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3156282" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3156282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -359,7 +340,7 @@
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Favorites" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.18612334" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.18612334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -674,6 +655,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/cart-icon/cart-icon.styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -684,17 +672,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/cart-icon/cart-icon.styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/header/header.component.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        <state relative-caret-position="359">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
