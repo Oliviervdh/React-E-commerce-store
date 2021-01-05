@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://Oliviervdh.github.io/React-E-commerce-store",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "classnames": "^2.2.6",
     "firebase": "^6.3.3",
